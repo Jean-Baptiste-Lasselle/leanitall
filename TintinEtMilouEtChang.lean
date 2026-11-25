@@ -1,0 +1,4 @@
+import TintinEtMilouEtChang.whatthefreak
+import TintinEtMilouEtChang.Castafiore
+import TintinEtMilouEtChang.Tournesol
+import TintinEtMilouEtChang.Haddock

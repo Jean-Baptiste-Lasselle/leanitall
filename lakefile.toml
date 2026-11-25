@@ -1,11 +1,13 @@
 name = "nimportequoi"
 version = "0.1.0"
-defaultTargets = [
-  "whatthefreak",
-  "Castafiore",
-  "Tournesol",
-  "Haddock"
-]
+defaultTargets = ["TintinEtMilouEtChang"]
 
 [[lean_lib]]
-name = "TintinEtMilou"
+name = "NexistePas"
+
+[[lean_lib]]
+name = "TintinEtMilouEtChang"
+
+[[lean_lib]]
+name = "BouleEtBill"
+
