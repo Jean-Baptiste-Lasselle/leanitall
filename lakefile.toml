@@ -1,0 +1,11 @@
+name = "nimportequoi"
+version = "0.1.0"
+defaultTargets = [
+  "whatthefreak",
+  "Castafiore",
+  "Tournesol",
+  "Haddock"
+]
+
+[[lean_lib]]
+name = "TintinEtMilou"
